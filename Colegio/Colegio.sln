@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.Colegio", "Win.Colegio\Win.Colegio.csproj", "{FA348EFC-739A-4621-ABC5-3E52A8B794C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Colegio", "BL.Colegio\BL.Colegio.csproj", "{CCA87847-5A80-4FF2-9375-DE29E51188A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA348EFC-739A-4621-ABC5-3E52A8B794C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA348EFC-739A-4621-ABC5-3E52A8B794C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA348EFC-739A-4621-ABC5-3E52A8B794C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA348EFC-739A-4621-ABC5-3E52A8B794C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA87847-5A80-4FF2-9375-DE29E51188A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA87847-5A80-4FF2-9375-DE29E51188A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA87847-5A80-4FF2-9375-DE29E51188A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA87847-5A80-4FF2-9375-DE29E51188A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
