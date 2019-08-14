@@ -36,3 +36,6 @@ C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\EntityFramewor
 C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
