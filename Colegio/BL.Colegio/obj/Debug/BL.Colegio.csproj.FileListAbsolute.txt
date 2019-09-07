@@ -13,3 +13,13 @@ C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework
 C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
 C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
+C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb

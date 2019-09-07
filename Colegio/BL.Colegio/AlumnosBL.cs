@@ -79,11 +79,14 @@ namespace BL.Colegio
                 resultado.Exitoso = false;
             }
 
+
             if (string.IsNullOrEmpty(alumno.Grado) == true)
             {
-                resultado.Mensaje = "Ingrese el Grado";
+                resultado.Mensaje = "Ingrese una Grado";
                 resultado.Exitoso = false;
             }
+
+
 
             return resultado;
         }
@@ -94,7 +97,10 @@ namespace BL.Colegio
         public string Nombre { get; set; }
         public string Telefono { get; set; }
         public string Direccion { get; set; }
+        
         public string Grado { get; set; }
+        
+        public byte[] Foto { get; set; }
         public bool Activo { get; set; }
     }
 

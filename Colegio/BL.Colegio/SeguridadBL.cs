@@ -8,18 +8,25 @@ namespace BL.Colegio
 {
     public class SeguridadBL
     {
-       public bool Autorizar(string usuario, string contraseña)
+        Contexto _contexto;
+
+        public SeguridadBL()
         {
-            if (usuario == "admin" && contraseña == "123")
+            _contexto = new Contexto();
+        }
+
+        public bool Autorizar(string usuario, string contrasena)
+        {
+            var usuario = _contexto.Usuarios.ToList();
+
+            foreach (var usuarioDB in usuarios)
             {
-                return true;    
-            }else
-            {
-                if (usuario == "user" && contraseña == "456")
+                if (usuario == usuarioDB.Nombre && contrasena == usuarioDB.Contrasena)
                 {
                     return true;
                 }
             }
+
             return false;
         }
     }
