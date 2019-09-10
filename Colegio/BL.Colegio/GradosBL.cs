@@ -24,14 +24,15 @@ namespace BL.Colegio
         {
             _contexto.Grados.Load();
             ListaGrados = _contexto.Grados.Local.ToBindingList();
+
             return ListaGrados;
         }
-        
     }
+
     public class Grado
     {
         public int Id { get; set; }
         public string Descripcion { get; set; }
+        public double Precio { get; set; }
     }
-
 }

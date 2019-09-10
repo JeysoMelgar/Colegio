@@ -13,49 +13,104 @@ C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\Win.Colegio\obj\Deb
 C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
 C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
 C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Win.Colegio.pdb
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormAlumnos.resources
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormDocentes.resources
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormLogin.resources
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormMenu.resources
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.Properties.Resources.resources
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csproj.GenerateResource.Cache
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\EntityFramework.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\EntityFramework.xml
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\user\Downloads\Colegio (1)\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\posas\Desktop\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
+C:\Users\posas\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
+C:\Users\posas\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Win.Colegio.pdb
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormAlumnos.resources
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormDocentes.resources
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormLogin.resources
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormMenu.resources
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.Properties.Resources.resources
+C:\Users\posas\Desktop\lenguaje\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csproj.GenerateResource.Cache
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Win.Colegio.pdb
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marco\Desktop\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormAlumnos.resources
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormDocentes.resources
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormLogin.resources
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormMenu.resources
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.Properties.Resources.resources
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csproj.GenerateResource.Cache
+C:\Users\marco\Desktop\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormFactura.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Win.Colegio.pdb
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\posas\Downloads\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormAlumnos.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormDocentes.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormFactura.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormLogin.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormMenu.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.Properties.Resources.resources
+C:\Users\posas\Downloads\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Win.Colegio.pdb
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormAlumnos.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormDocentes.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormFactura.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormLogin.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormMenu.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.Properties.Resources.resources
+C:\Users\user\Downloads\Colegio\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csproj.GenerateResource.Cache
 C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe.config
 C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.exe
 C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.pdb
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Win.Colegio.exe
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Win.Colegio.pdb
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\BL.Colegio.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\EntityFramework.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\BL.Colegio.pdb
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\EntityFramework.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormAlumnos.resources
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormDocentes.resources
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormEncargados.resources
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormLogin.resources
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.FormMenu.resources
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.Properties.Resources.resources
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\Win.Colegio\obj\Debug\Win.Colegio.csproj.GenerateResource.Cache

@@ -15,32 +15,40 @@ namespace Win.Colegio
     public partial class FormAlumnos : Form
     {
         AlumnosBL _alumnos;
+        GradosBL _grados;
+
         public FormAlumnos()
         {
             InitializeComponent();
 
             _alumnos = new AlumnosBL();
             listaAlumnosBindingSource.DataSource = _alumnos.ObtenerAlumnos();
+
+            _grados = new GradosBL();
+            listaGradosBindingSource.DataSource = _grados.ObtenerGrados();
         }
 
         private void listaAlumnosBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
             listaAlumnosBindingSource.EndEdit();
             var alumno = (Alumno)listaAlumnosBindingSource.Current;
-            if (fotoPictureBox.Image != null)
+
+            if(fotoPictureBox.Image != null)
             {
-                alumno.Foto = Program.imageToByteArray(fotoPictureBox.Image);
+                alumno.foto = Program.imageToByteArray(fotoPictureBox.Image);
             }
             else
             {
-                alumno.Foto = null;
+                alumno.foto = null;
             }
+
             var resultado = _alumnos.GuardarAlumno(alumno);
+
             if(resultado.Exitoso == true)
             {
                 listaAlumnosBindingSource.ResetBindings(false);
                 DeshabilitarHabilitarBotones(true);
-                MessageBox.Show("Alumno Guardado");
+                MessageBox.Show("Alumno guardado");
             }
             else
             {
@@ -102,8 +110,13 @@ namespace Win.Colegio
 
         private void toolStripButtonCancelar_Click(object sender, EventArgs e)
         {
+            _alumnos.CancelarCambios();
             DeshabilitarHabilitarBotones(true);
-            Eliminar(0);
+        }
+
+        private void FormAlumnos_Load(object sender, EventArgs e)
+        {
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -119,19 +132,24 @@ namespace Win.Colegio
                 {
                     var fileInfo = new FileInfo(archivo);
                     var fileStream = fileInfo.OpenRead();
+
                     fotoPictureBox.Image = Image.FromStream(fileStream);
                 }
             }
             else
             {
-                MessageBox.Show("Cree un alumno antes de asignarle una imagen ");
+                MessageBox.Show("Cree un alumno antes de asignarle una imagen");
             }
-            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             fotoPictureBox.Image = null;
+        }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
         }
     }
 }

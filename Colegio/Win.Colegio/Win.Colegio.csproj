@@ -81,6 +81,12 @@
     <Compile Include="FormEncargados.Designer.cs">
       <DependentUpon>FormEncargados.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFactura.Designer.cs">
+      <DependentUpon>FormFactura.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,9 @@
     <EmbeddedResource Include="FormEncargados.resx">
       <DependentUpon>FormEncargados.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormFactura.resx">
+      <DependentUpon>FormFactura.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormLogin.resx">
       <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>
@@ -123,7 +132,11 @@
     <None Include="packages.config" />
     <None Include="Properties\DataSources\BL.Colegio.Alumno.datasource" />
     <None Include="Properties\DataSources\BL.Colegio.AlumnosBL.datasource" />
+    <None Include="Properties\DataSources\BL.Colegio.DocentesBL.datasource" />
+    <None Include="Properties\DataSources\BL.Colegio.FacturaBL.datasource" />
+    <None Include="Properties\DataSources\BL.Colegio.GradosBL.datasource" />
     <None Include="Properties\DataSources\BL.Colegio.SeguridadBL.datasource" />
+    <None Include="Properties\DataSources\BL.Colegio.UsuariosBL.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

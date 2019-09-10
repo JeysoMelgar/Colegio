@@ -1,0 +1,19 @@
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\bin\Debug\Colegio.exe
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\bin\Debug\Colegio.pdb
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.csprojResolveAssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.FormLogin.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.FormMenu.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.csproj.GenerateResource.Cache
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.exe
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.pdb
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.FormALumno.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.FormDocente.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.FormEncargado.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\obj\Debug\Colegio.FormNotas.resources
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\bin\Debug\Alumno.BL.dll
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Colegio\bin\Debug\Alumno.BL.pdb
+C:\Users\posas\Downloads\Colegio\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\posas\Downloads\Colegio\Colegio\obj\Debug\Colegio.exe
+C:\Users\posas\Downloads\Colegio\Colegio\obj\Debug\Colegio.pdb

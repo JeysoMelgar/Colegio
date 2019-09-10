@@ -15,18 +15,18 @@ namespace BL.Colegio
             _contexto = new Contexto();
         }
 
-        public bool Autorizar(string usuario, string contrasena)
+       public bool Autorizar(string usuario, string contrasena)
         {
-            var usuario = _contexto.Usuarios.ToList();
+            var usuarios = _contexto.Usuarios.ToList();
 
-            foreach (var usuarioDB in usuarios)
+             foreach (var usuarioDB in usuarios)
             {
-                if (usuario == usuarioDB.Nombre && contrasena == usuarioDB.Contrasena)
+                if(usuario == usuarioDB.Nombre && contrasena == usuarioDB.Contrasena)
                 {
                     return true;
                 }
             }
-
+           
             return false;
         }
     }

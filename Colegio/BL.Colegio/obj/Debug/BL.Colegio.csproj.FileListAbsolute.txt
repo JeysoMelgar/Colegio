@@ -3,23 +3,43 @@ C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\BL.Colegio\bin\Debu
 C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
 C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb
 C:\Users\User\Desktop\Javier S\L3\Proyecto Matricula\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
-C:\Users\user\Downloads\Colegio (1)\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
-C:\Users\user\Downloads\Colegio_BasedeDatos_Estudiantes\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
+C:\Users\posas\Desktop\lenguaje\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\marco\Desktop\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marco\Desktop\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
+C:\Users\marco\Desktop\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\posas\Downloads\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\posas\Downloads\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\posas\Downloads\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
+C:\Users\posas\Downloads\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll.config
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\BL.Colegio.dll
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\BL.Colegio.pdb
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\obj\Debug\BL.Colegio.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\obj\Debug\BL.Colegio.dll
+C:\Users\user\Downloads\Colegio\Colegio\BL.Colegio\obj\Debug\BL.Colegio.pdb

@@ -14,12 +14,16 @@ namespace Win.Colegio
     public partial class FormLogin : Form
     {
         SeguridadBL _seguridad;
+        UsuariosBL _usuarios;
 
         public FormLogin()
         {
             InitializeComponent();
 
             _seguridad = new SeguridadBL();
+
+            _usuarios = new UsuariosBL();
+            listaUsuariosBindingSource.DataSource = _usuarios.ObtenerUsuarios();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -30,16 +34,16 @@ namespace Win.Colegio
         private void button1_Click(object sender, EventArgs e)
         {
             string usuario;
-            string contraseña;
+            string contrasena;
 
             usuario = textBox1.Text;
-            contraseña = textBox2.Text;
+            contrasena = textBox2.Text;
 
             button1.Enabled = false;
-            button1.Text = "Verificando....";
+            button1.Text = "Vefificando...";
             Application.DoEvents();
 
-           var resultado = _seguridad.Autorizar(usuario, contraseña);
+           var resultado = _seguridad.Autorizar(usuario, contrasena);
              
             if (resultado == true)
             {

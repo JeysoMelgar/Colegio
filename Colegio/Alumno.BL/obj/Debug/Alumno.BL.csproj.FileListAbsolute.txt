@@ -1,0 +1,5 @@
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Alumno.BL\bin\Debug\Alumno.BL.dll
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Alumno.BL\bin\Debug\Alumno.BL.pdb
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Alumno.BL\obj\Debug\Alumno.BL.dll
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Alumno.BL\obj\Debug\Alumno.BL.pdb
+C:\Users\marco\OneDrive\Documentos\Proyectos L2\ventas\Colegio\Alumno.BL\obj\Debug\Alumno.BL.csprojResolveAssemblyReference.cache
