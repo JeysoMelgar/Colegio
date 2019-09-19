@@ -126,9 +126,10 @@
             impuestoLabel.AutoSize = true;
             impuestoLabel.Location = new System.Drawing.Point(388, 398);
             impuestoLabel.Name = "impuestoLabel";
-            impuestoLabel.Size = new System.Drawing.Size(53, 13);
+            impuestoLabel.Size = new System.Drawing.Size(38, 13);
             impuestoLabel.TabIndex = 9;
-            impuestoLabel.Text = "Impuesto:";
+            impuestoLabel.Text = "Libros:";
+            impuestoLabel.Click += new System.EventHandler(this.impuestoLabel_Click);
             // 
             // subtotalLabel
             // 
@@ -186,8 +187,8 @@
             // bindingNavigatorCountItem
             // 
             this.bindingNavigatorCountItem.Name = "bindingNavigatorCountItem";
-            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(35, 22);
-            this.bindingNavigatorCountItem.Text = "of {0}";
+            this.bindingNavigatorCountItem.Size = new System.Drawing.Size(37, 22);
+            this.bindingNavigatorCountItem.Text = "de {0}";
             this.bindingNavigatorCountItem.ToolTipText = "Número total de elementos";
             // 
             // bindingNavigatorMoveFirstItem

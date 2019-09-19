@@ -126,5 +126,10 @@ namespace Win.Colegio
             listaFacturasBindingSource.ResetBindings(false);
 
         }
+
+        private void impuestoLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -35,6 +35,7 @@ namespace Win.Colegio
             this.alumnoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.notasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.docentesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.facturaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.encargadoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesDeAlumnosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reporteDeEncargadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -42,7 +43,7 @@ namespace Win.Colegio
             this.reporteDeDocentesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.seguridadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loginToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.facturaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reporteDeFacturaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -72,22 +73,29 @@ namespace Win.Colegio
             // alumnoToolStripMenuItem
             // 
             this.alumnoToolStripMenuItem.Name = "alumnoToolStripMenuItem";
-            this.alumnoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.alumnoToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.alumnoToolStripMenuItem.Text = "Alumnos";
             this.alumnoToolStripMenuItem.Click += new System.EventHandler(this.alumnoToolStripMenuItem_Click);
             // 
             // notasToolStripMenuItem
             // 
             this.notasToolStripMenuItem.Name = "notasToolStripMenuItem";
-            this.notasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.notasToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.notasToolStripMenuItem.Text = "Notas";
             // 
             // docentesToolStripMenuItem
             // 
             this.docentesToolStripMenuItem.Name = "docentesToolStripMenuItem";
-            this.docentesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.docentesToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.docentesToolStripMenuItem.Text = "Docentes";
             this.docentesToolStripMenuItem.Click += new System.EventHandler(this.docentesToolStripMenuItem_Click);
+            // 
+            // facturaToolStripMenuItem
+            // 
+            this.facturaToolStripMenuItem.Name = "facturaToolStripMenuItem";
+            this.facturaToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.facturaToolStripMenuItem.Text = "Factura";
+            this.facturaToolStripMenuItem.Click += new System.EventHandler(this.facturaToolStripMenuItem_Click);
             // 
             // encargadoToolStripMenuItem
             // 
@@ -95,7 +103,8 @@ namespace Win.Colegio
             this.reportesDeAlumnosToolStripMenuItem,
             this.reporteDeEncargadosToolStripMenuItem,
             this.reporteDeNotasToolStripMenuItem,
-            this.reporteDeDocentesToolStripMenuItem});
+            this.reporteDeDocentesToolStripMenuItem,
+            this.reporteDeFacturaToolStripMenuItem});
             this.encargadoToolStripMenuItem.Name = "encargadoToolStripMenuItem";
             this.encargadoToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
             this.encargadoToolStripMenuItem.Text = "Reportes";
@@ -105,6 +114,7 @@ namespace Win.Colegio
             this.reportesDeAlumnosToolStripMenuItem.Name = "reportesDeAlumnosToolStripMenuItem";
             this.reportesDeAlumnosToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
             this.reportesDeAlumnosToolStripMenuItem.Text = "Reportes de Alumnos";
+            this.reportesDeAlumnosToolStripMenuItem.Click += new System.EventHandler(this.reportesDeAlumnosToolStripMenuItem_Click);
             // 
             // reporteDeEncargadosToolStripMenuItem
             // 
@@ -139,12 +149,12 @@ namespace Win.Colegio
             this.loginToolStripMenuItem.Text = "Login";
             this.loginToolStripMenuItem.Click += new System.EventHandler(this.loginToolStripMenuItem_Click_1);
             // 
-            // facturaToolStripMenuItem
+            // reporteDeFacturaToolStripMenuItem
             // 
-            this.facturaToolStripMenuItem.Name = "facturaToolStripMenuItem";
-            this.facturaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.facturaToolStripMenuItem.Text = "Factura";
-            this.facturaToolStripMenuItem.Click += new System.EventHandler(this.facturaToolStripMenuItem_Click);
+            this.reporteDeFacturaToolStripMenuItem.Name = "reporteDeFacturaToolStripMenuItem";
+            this.reporteDeFacturaToolStripMenuItem.Size = new System.Drawing.Size(195, 22);
+            this.reporteDeFacturaToolStripMenuItem.Text = "Reporte de Factura";
+            this.reporteDeFacturaToolStripMenuItem.Click += new System.EventHandler(this.reporteDeFacturaToolStripMenuItem_Click);
             // 
             // FormMenu
             // 
@@ -185,5 +195,6 @@ namespace Win.Colegio
         private System.Windows.Forms.ToolStripMenuItem loginToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem docentesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem facturaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem reporteDeFacturaToolStripMenuItem;
     }
 }

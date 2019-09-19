@@ -64,5 +64,21 @@ namespace Win.Colegio
             formFactura.Show();
 
         }
+
+        private void reportesDeAlumnosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var formReporteAlumnos = new FormReporteAlumnos();
+            formReporteAlumnos.MdiParent = this;
+            formReporteAlumnos.Show();
+
+        }
+
+
+        private void reporteDeFacturaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var formReporteFacturas = new FormReporteFacturas();
+            formReporteFacturas.MdiParent = this;
+            formReporteFacturas.Show();
+        }
     }
 }
